@@ -51,6 +51,20 @@ To evaluate model performance on the test set, run:
 python wandb_predict.py
 ```
 
+## Prepare a Subset
+Extract the prerequisite-dependent exercise relations using either method: 
+```
+dkt_method.py
+new_method.py
+```
+Refer to the following files to help obtain a causal or random subset of the dataset.
+```
+2009_subset.ipynb
+2012_subset.ipynb
+2017_subset.ipynb
+```
+Use the same steps outlined above to preprocess your data, train the model, and evaluate it on your subset.
+
 ## pyKT
 
 [![Downloads](https://pepy.tech/badge/pykt-toolkit)](https://pepy.tech/project/pykt-toolkit)
