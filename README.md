@@ -20,7 +20,7 @@ Place the dataset in the correct directory:
 ```
 data/{dataset_name}/
 ```
-Ensure your 'dataset_name' is either 'assist2009', 'assist2012', or 'assist2017'. If the dataset currently has a different name, rename it accordingly.
+Ensure your 'dataset_name' is either 'assist2009', 'assist2012', or 'assist2017'. If the folder currently has a different name, rename it accordingly.
 
 Data preprocessing:
 
