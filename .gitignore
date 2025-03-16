@@ -13,11 +13,13 @@ dist/
 saved_model
 build/
 .vscode/
-data
+data/assist*
+data/assist2012
 data/algebra2005
 data/bridge2algebra2006
 data/statics2011
 data/nips_task34
+data/assist2017
 data/poj
 data/slepemapy
 data/junyi2015
