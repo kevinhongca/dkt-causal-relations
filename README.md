@@ -20,7 +20,7 @@ Place the dataset in the correct directory:
 ```
 data/{dataset_name}/
 ```
-Ensure your dataset is correctly named.
+Ensure your 'dataset_name' is either 'assist2009', 'assist2012', or 'assist2017'. If the dataset currently has a different name, rename it accordingly.
 
 Data preprocessing:
 
@@ -28,6 +28,7 @@ Data preprocessing:
 cd examples
 python data_preprocess.py --dataset_name='dataset name'
 ```
+Ensure that the 'dataset name' is either 'assist2009', 'assist2012', or 'assist2017'.
 
 ## Train a Model
 Train your model using:
